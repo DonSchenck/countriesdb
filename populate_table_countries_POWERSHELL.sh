@@ -1,1 +1,0 @@
-mysql -u root  < /tmp/populate_table_countries_POWERSHELL.sql
